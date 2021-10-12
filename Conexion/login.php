@@ -1,5 +1,5 @@
 <?php 
-	define('DATABASE','telares');
+	define('DATABASE','cursovivero');
 	define('HOSTNAME','localhost');
 	define('USERNAME','root');
 	define('PASSWORD','');
